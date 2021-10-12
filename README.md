@@ -1,13 +1,15 @@
 ### Hi there, I am Divyaant Kumar Jain 👋
 
-
+<br>
 
 🌱 I’m currently learning Front-End Development<br>
 👯 I’m looking to collaborate on Open source projects.
 
+<br>
 
 📫 How to reach me: divyaantjn@gmail.com
 
+<br>
 
 ### Find me on
 
@@ -22,9 +24,10 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Divyaantkj01&count_private=true&theme=tokyonight&showicons=true)](https://github.com/Divyaantkj01)
 
-<br>
+<br><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divyaantkj01&theme=dark)](https://github.com/Divyaantkj01)
 
+<br>
 
 #### Thank You 🙏🏼
