@@ -2,7 +2,7 @@
 
 
 
-🌱 I’m currently learning Front-End Development
+🌱 I’m currently learning Front-End Development<br>
 👯 I’m looking to collaborate on Open source projects.
 
 
