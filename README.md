@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Divyaant Kumar Jain 👋
 
 
 
@@ -26,8 +26,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divyaantkj01&theme=dark)](https://github.com/Divyaantkj01)
 
-
-
-From [Divyaantkj01](https://github.com/Divyaantkj01)
 
 #### Thank You 🙏🏼
