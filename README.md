@@ -1,4 +1,4 @@
-### Hi there, I'm Divyaant Kumar Jain 👋
+### Hi there 👋
 
 
 
