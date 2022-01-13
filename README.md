@@ -9,7 +9,7 @@
 ### Find me on
 
 <a href = "https://www.instagram.com/divyaant_11/"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
-<a href = "https://www.linkedin.com/in/divyaant-kumar-jain-4b50001bb"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white">Linkedin </a>&nbsp;&nbsp;
+<a href = "https://www.linkedin.com/in/divyaant-kumar-jain-4b50001bb"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"</a>&nbsp;&nbsp;
 
 
 *************
