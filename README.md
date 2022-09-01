@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyaantkj01&label=Profile%20views&color=0e75b6&style=flat" alt="divyaantkj01" /> </p>
 
-- 🔭 I’m currently working on **Web Development Projects**
+- 🔭 I’m currently working on *Data Analytics Projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Data Analysis and Visualization**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
